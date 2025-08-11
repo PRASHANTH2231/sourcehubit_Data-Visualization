@@ -40,7 +40,7 @@ It provides insights on revenue, profit, customers, and regions.
 ---
 
 ## 📷 Screenshots
-(Add screenshots of each page here)
+https://github.com/PRASHANTH2231/sourcehubit_Data-Visualization/blob/main/Superstore_Dashboard.pdf
 
 ---
 
